@@ -1,5 +1,4 @@
 # C-Exercise-1
-Advanced Topics in C - Chapter 1 
 
 A survey of ten pop artist is make. 
 
@@ -20,3 +19,5 @@ Write a program to read the data and evaluate the results of the survey.o
 Print the results in alphabetical order by artist name and in order by votes received (most votes first).
 
 Print all output to the file results.txt
+
+Advanced Topics in C - Chapter 1 
