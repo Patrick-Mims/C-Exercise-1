@@ -2,5 +2,6 @@
 
 int main(void)
 {
+    printf("Today is saturday");
     return 0;
 }
